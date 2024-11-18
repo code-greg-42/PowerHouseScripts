@@ -4,7 +4,7 @@ PowerHouse: Aim Practice functions as a simple aim trainer for those wishing to 
 
 ## Play Now!
 
-[Play PowerHouse: Aim Practice on Unity Play](https://play.unity.com/mg/other/powerhouse_1-0)
+[Play PowerHouse: Aim Practice on Unity Play](https://play.unity.com/en/games/4a46ca87-b84e-411a-969b-a9b17a313efb/powerhouse11)
 
 ## Features
 
